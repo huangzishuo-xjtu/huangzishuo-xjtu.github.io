@@ -12,8 +12,6 @@ avatar = "/bio.jpg"
 
 [social]
 email = "hzs183011@163.com"
-location = "Beijing, China"
-location_url = "https://maps.google.com/?q=Beijing%2C+China"
 github = "https://github.com/hzs13579"
 
 [features]
