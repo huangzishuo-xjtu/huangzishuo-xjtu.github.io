@@ -1,5 +1,7 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am a PhD candidate in the Department of Electrical Engineering at **Tsinghua University**, advised by **Prof. Wenchuan Wu**. I received my B.E. degree in Electrical Engineering from **Xi'an Jiaotong University**, where I studied in Qian Xuesen's Class.
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+My research focuses on the **optimization and control of renewable energy systems**, especially wind farms. My current interests include wind-farm layout and yaw optimization, model predictive control, active power regulation, primary frequency control, wind-storage coordination, and real-time digital simulation.
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+My work has appeared in *IEEE Transactions on Industrial Informatics*, *IEEE Transactions on Sustainable Energy*, *Energy*, and *IET Renewable Power Generation*.
+
+[Download my full CV](/Zishuo_Huang_CV.pdf)

@@ -1,27 +1,57 @@
 type = "card"
 title = "Awards"
-description = "Honors and awards I have received."
+description = "Selected honors and awards."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2025"
-content = "Description of the award."
+title = "National Second Prize (Team Leader)"
+subtitle = "China Undergraduate Mathematical Contest in Modeling (CUMCM)"
+date = "2019.11"
+content = "National-level second prize; served as team leader."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2024"
-content = "Description of the award."
+title = "Provincial First Prize (Shaanxi)"
+subtitle = "China Undergraduate Mathematical Contest in Modeling (CUMCM)"
+date = "2018.11"
+content = "First prize in the Shaanxi provincial competition."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2023"
-content = "Description of the award."
+title = "First Prize (Shaanxi Division)"
+subtitle = "11th National Undergraduate Mathematics Competition"
+date = "2019.10"
+content = "First prize in the Shaanxi Division."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2022"
-content = "Description of the award."
+title = "First Prize"
+subtitle = "Xi'an Jiaotong University Mathematical Modeling Competition"
+date = "2019.05"
+content = "University-level first prize."
+
+[[items]]
+title = "First Prize"
+subtitle = "Xi'an Jiaotong University Mathematical Modeling Competition"
+date = "2018.05"
+content = "University-level first prize."
+
+[[items]]
+title = "Qiu Changrong Scholarship (Second Class)"
+subtitle = "Xi'an Jiaotong University"
+date = "2020.11"
+content = "Awarded for the 2019-2020 academic year."
+
+[[items]]
+title = "Qiu Changrong Scholarship (Second Class)"
+subtitle = "Xi'an Jiaotong University"
+date = "2019.11"
+content = "Awarded for the 2018-2019 academic year."
+
+[[items]]
+title = "Outstanding Student"
+subtitle = "Qian Xuesen College, Xi'an Jiaotong University"
+date = "2020.10"
+content = "Awarded for the 2019-2020 academic year."
+
+[[items]]
+title = "Outstanding Student"
+subtitle = "Qian Xuesen College, Xi'an Jiaotong University"
+date = "2019.10"
+content = "Awarded for the 2018-2019 academic year."

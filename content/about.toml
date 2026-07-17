@@ -3,16 +3,17 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Computational Physics",
-  "Mathematical Principles",
-  "Proof of Theorems"
+  "Wind Farm Optimization",
+  "Renewable Energy Control",
+  "Model Predictive Control",
+  "Power System Frequency Control"
 ]
 
 [[sections]]
 id = "about"
 type = "markdown"
 source = "bio.md"
-title = "About"
+title = "Biography"
 
 [[sections]]
 id = "featured_publications"
@@ -26,4 +27,3 @@ id = "news"
 type = "list"
 title = "News"
 source = "news.toml"
-

@@ -1,7 +1,11 @@
 [[news]]
-date = "2025-11"
-content = "Our work has been accepted by a prestigious journal 🎉"
+date = "2025"
+content = "Published three first-author papers in IEEE Transactions on Industrial Informatics and IEEE Transactions on Sustainable Energy."
 
 [[news]]
-date = "2025-09"
-content = "Starting my PhD at the University of Example"
+date = "2024"
+content = "Published a first-author article in Energy on large offshore wind-farm power optimization."
+
+[[news]]
+date = "2023"
+content = "Published a first-author article in IET Renewable Power Generation on stochastic MPC for wind-storage coordinated control."

@@ -1,26 +1,49 @@
+[Download the PDF version of my CV](/Zishuo_Huang_CV.pdf)
+
 ## Education
 
-**The University of Example**, PhD in Natural Science, *2025 - Present*
-- Research focus: Mathematical Principles of Natural Philosophy
-- Supervisor: Prof. Advisor One and Dr. Advisor Two
+**Tsinghua University**, Department of Electrical Engineering, Beijing, China  
+*Ph.D. in Electrical Engineering, 2022 - 2027 (expected)*
 
-**The University of Example**, BSc in Natural Science, *2021 - 2025*
-- Graduated with First Class Honours
+- Advisor: Prof. Wenchuan Wu
+- Research area: optimization and control of renewable energy systems, especially wind farms
 
-## Experience
+**Xi'an Jiaotong University**, School of Electrical Engineering, Xi'an, China  
+*B.E. in Electrical Engineering (Qian Xuesen's Class), 2018 - 2022*
 
-**Example Role**
-Company/Institution
-*2023 - 2024*
-- Description of key responsibilities and achievements.
-- Utilized skills to solve problems.
+**Xi'an Jiaotong University**, Class of the Gifted Young, Xi'an, China  
+*2016 - 2018*
+
+## Research Project
+
+**Zhangjiakou 100% Renewable Energy Aggregation and Operational Control: Research & Demonstration**  
+*Tsinghua University, 2023.04 - 2025.07*
+
+- Developed a measurement-driven lifted-mapping approach for global linearization and a model-data co-driven control framework.
+- Formulated stochastic MPC with wind-speed forecast-error correction for wind-storage coordinated optimization.
+- Considered grid-power fluctuation, schedule tracking, curtailment, battery degradation, and engineering constraints.
+- Validated the cluster controller through real-time hardware-in-the-loop simulation on RTDS.
+
+## Publications
+
+Please see the [Publications page](/publications) for the complete list.
 
 ## Skills
 
-- **Programming:** Python, C++, MATLAB, LaTeX
-- **Data Analysis:** Pandas, NumPy, SciPy
-- **Languages:** English (Native), French (Fluent)
+- **Languages:** Chinese, English
+- **Programming:** Python, C++, MATLAB
+- **Simulation software:** Simulink, RTDS (RSCAD), PowerFactory
 
-## Awards & Honors
+## Academic Services
 
-- **First Prize in Example Competition** - Committee of Example (*2024*)
+- Reviewer for *IEEE Transactions on Sustainable Energy*
+- Reviewer for *IEEE Transactions on Industrial Informatics*
+
+## Awards and Honors
+
+- National Second Prize (Team Leader), China Undergraduate Mathematical Contest in Modeling, 2019
+- Provincial First Prize (Shaanxi), China Undergraduate Mathematical Contest in Modeling, 2018
+- First Prize (Shaanxi Division), 11th National Undergraduate Mathematics Competition, 2019
+- First Prize, Xi'an Jiaotong University Mathematical Modeling Competition, 2019 and 2018
+- Qiu Changrong Scholarship (Second Class), 2019-2020 and 2018-2019
+- Outstanding Student, Qian Xuesen College, 2019-2020 and 2018-2019
