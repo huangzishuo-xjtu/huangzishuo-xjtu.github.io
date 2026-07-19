@@ -9,7 +9,7 @@
 - Research area: optimization and control of renewable energy systems, especially wind farms
 
 **Xi'an Jiaotong University**, School of Electrical Engineering, Xi'an, China  
-*B.E. in Electrical Engineering (Qian Xuesen's Class), 2018 - 2022*
+*B.S. in Electrical Engineering (Qian Xuesen's Class), 2018 - 2022*
 
 **Xi'an Jiaotong University**, Class of the Gifted Young, Xi'an, China  
 *2016 - 2018*
