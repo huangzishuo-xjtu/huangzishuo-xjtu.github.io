@@ -22,7 +22,7 @@
 - Developed a measurement-driven lifted-mapping approach for global linearization and a model-data co-driven control framework.
 - Formulated stochastic MPC with wind-speed forecast-error correction for wind-storage coordinated optimization.
 - Considered grid-power fluctuation, schedule tracking, curtailment, battery degradation, and engineering constraints.
-- Validated the cluster controller through real-time hardware-in-the-loop simulation on RTDS.
+- Validated the cluster controller through real-time simulation on RTDS.
 
 ## Publications
 
