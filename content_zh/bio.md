@@ -2,6 +2,6 @@
 
 我的研究聚焦于**新能源发电系统的优化运行、并网控制与主动支撑**，主要以风电场和风电机组为研究对象，涉及功率调节与频率支撑、风电场协同优化、风储协同以及海上与漂浮式风电控制等方向。
 
-相关研究成果发表于 *IEEE Transactions on Sustainable Energy*、*IEEE Transactions on Industrial Informatics*、*Energy* 和 *IET Renewable Power Generation* 等期刊。
+相关研究成果发表于 *IEEE Transactions on Sustainable Energy*、*IEEE Transactions on Industrial Informatics*、*Energy* 和 *IET Renewable Power Generation* 等期刊和会议。
 
 [下载完整英文简历](/Zishuo_Huang_CV.pdf)
